@@ -1,6 +1,6 @@
 ## Automation to setup AWS infra and Deploy Wordpress.
 
-By using only single script we can create the AWS infrastructure and deploy the wordpress on the infrastructure
+By using only single script we can create the AWS infrastructure and deploy the wordpress.
 
 **Setup_infra_and_deploy.sh**
 
